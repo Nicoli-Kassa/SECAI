@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+* {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+body {
+  background: linear-gradient(135deg, hsl(202, 73%, 97%), #f4f7fc);
+  min-height: 100vh;
+}
